@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "32dSQwC6GIafRPGOA1LAXUg7AqNHeTve1YAWlQIQgTshjH8AHlwA/Jc+WMdsuofPyKM2HQ2LqTvJDT061GTFKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\DemoFramework\\ApiModules\\ApiModules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
